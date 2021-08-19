@@ -7,7 +7,7 @@
  
  <br>
  
-<h1 text align="center">Grupo 3 :bar_chart::computer:</h1> 
+<h1 text align="center">Grupo 3 :computer:</h1> 
 <h2 text align="center">Aplicação web com interface de mapa em nuvem</h2>
 
 <br>
