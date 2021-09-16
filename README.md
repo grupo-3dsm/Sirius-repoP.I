@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-orange)](https://shields.io/)
+
 <br id="topo">
 <h1 align = "center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre DSM </h1>
 <p align = "center">
@@ -20,7 +22,6 @@
 
 Desenvolvimento de um portal web com interface de mapa, baseado em serviços de computação em nuvem utilizando tiles, que acessa imagens públicas de satélites e permita consultar, manipular e proporcionar download de imagens para seu usuário, entregando de maneira incremental valor ao cliente durante 4 sprints.
 Projeto tem por base a metodologia ágil SCRUM, em que desenvolve Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos.
->  Status do Projeto: Em Desenvolvimento
   
   
 ### 🛰️ Entregas de Sprints
