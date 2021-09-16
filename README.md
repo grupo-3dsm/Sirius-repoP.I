@@ -41,20 +41,10 @@ Entregas serão realizadas nas datas:
 ## 🌎 Backlogs
   
 ### Backlog do Produto
-
-<<<<<<< HEAD
-![](/imagens/backlog_do_produto.png)
-  
-### Backlog da Sprint
-
-![](/imagens/backlog_sprint1.png)
-=======
 <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Backlog-Produto.png">
-  
-### Backlog da Sprint
-
+    
+### Backlog da Sprint 1
 <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Backlog.png">
->>>>>>> d8bdfe88788ef4624b03f5bd449aaabda348249c
   
 <span id = "user-stories">
 
