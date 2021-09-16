@@ -45,8 +45,8 @@ Giff Protótipo aqui
 
 Depois de refinar os requisitos e definir as tarefas, assim como as ferramentas e tecnologias que seriam usadas, cada componete a equipe ficou responsavel por determinadas tarefas que corresponde a requisitos do Backlog da Sprint e consequentimente ao Backlog do Produto, sendo a comunicação atras de reuniões on-line e Daily Meeting diarios. Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem da àreas desejadas, através de um Basemap (Leafleat) e back-end, através da ferramenta Jupyter Notebook, que contem um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples. 
 
-![](Burndow_Chart_Sprint1.PNG)
+![](burndow_chart_sprint1.PNG)
 
-![](Tarefas_Sprint1.PNG)
+![](tarefas_sprint1.PNG)
 
 <span id="repo">

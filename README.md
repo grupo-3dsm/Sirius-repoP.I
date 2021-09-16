@@ -42,11 +42,11 @@ Entregas serão realizadas nas datas:
   
 ### Backlog do Produto
 
-![](Backlog_do_produto.PNG)
+![](/imagens/backlog_do_produto.png)
   
 ### Backlog da Sprint
 
-![](Backlog_Sprint1.PNG)
+![](/imagens/backlog_sprint1.png)
   
 <span id = "user-stories">
 
@@ -118,6 +118,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Ana Carolina dos Santos     | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/)          | [GitHub](https://github.com/annakks)         |
 |   Dev Team    | Gabriele Gonçalves Vieira   | [LinkedIn](https://www.linkedin.com/mwlite/in/gabrielevieira)          | [GitHub](https://github.com/GabrieleGVieira) |
 |   Dev Team    | Nathan da Motta Truyts      | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/)       | [GitHub](https://github.com/Nathtruyts)      |
-|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](hhttps://github.com/Miojoguu)                |
+|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](hhttps://github.com.Miojoguu)       |
 
 → [Voltar ao topo](#topo)
