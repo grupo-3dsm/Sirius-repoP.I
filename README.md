@@ -6,7 +6,7 @@
 <p align = "center">
     <a href="#sobre"> Sobre </a> | 
     <a href="#backlogs"> Backlogs </a> | 
-    <a href="#user-stories"> Histórias de usuários </a> | 
+    <a href="#user-stories"> User Stories </a> | 
     <a href="#prototipo"> Protótipo </a> | 
     <a href="#tecnologias"> Tecnologias </a> |
     <a href="#equipe"> Equipe </a> | 
@@ -28,10 +28,10 @@ Entregas serão realizadas nas datas:
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 19/09/2021  | Em desenvolvimento | Valor
-02          | 10/10/2021  | Em desenvolvimento | Valor
-03          | 07/11/2021  | Em desenvolvimento | Valor
-04          | 05/12/2021  | Em desenvolvimento | Valor
+01          | 19/09/2021  | Em desenvolvimento | [Link](/planejamento/Sprint_1/README.md) |
+02          | 10/10/2021  | Em desenvolvimento | Link
+03          | 07/11/2021  | Em desenvolvimento | Link
+04          | 05/12/2021  | Em desenvolvimento | Link
   
   
 → [Voltar ao topo](#topo)
@@ -41,12 +41,13 @@ Entregas serão realizadas nas datas:
 ## 🌎 Backlogs
   
 ### Backlog do Produto
+
+![](Backlog_do_produto.PNG)
   
 ### Backlog da Sprint
+
+![](Backlog_Sprint1.PNG)
   
-
-
-
 <span id = "user-stories">
 
 ## User Stories
@@ -100,22 +101,23 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 - [ Visual Studio Code ] (https://code.visualstudio.com/): Codificação
 - [ Discord ] (https://discord.com/): Comunicação
 - [ GitHub ] (https://github.com/): Versionamento
-- [Portable Document Format - PDF] : Documentação
+- [ Trello ] (https://trello.com/pt-BR): Organização e acompanhamento das tarefas
 - [ Planilhas Google ] (https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown
+- [Portable Document Format - PDF] : Documentação
 
 → [Voltar ao topo](#topo)
   
 <span id="equipe">
   
 ## 👥 Equipe
-|    Função     | Nome                        |                LinkedIn                                          |                     GitHub                   |
-| :----------:  | :-----------------------    | :----------------------------------------------------:           | :------------------------------------------: |
+|    Função     | Nome                        |                LinkedIn                                                |                     GitHub                   |
+| :----------:  | :-----------------------    | :----------------------------------------------------:                 | :------------------------------------------: |
 | Scrum Master  | Vinicius Buarque de Gusmão Catonho | [LinkedIn](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) | [GitHub](https://github.com/vbuarque) |
-| Product Owner | Isabelle Dias Ribeiro Silva | [LinkedIn](https://www.linkedin.com/in/drisabelles)              | [GitHub](https://github.com/drisabelles)     |
-|   Dev Team    | Adriano Andrade Almeida     | [LinkedIn](https://www.linkedin.com/in/aeroadriano/)             | [GitHub](https://github.com/aeroadriano)     |
-|   Dev Team    | Ana Carolina dos Santos     | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/)    | [GitHub](https://github.com/annakks)         |
-|   Dev Team    | Gabriele Gonçalves Vieira   | [LinkedIn](https://www.linkedin.com/mwlite/in/gabrielevieira)    | [GitHub](https://github.com/GabrieleGVieira) |
-|   Dev Team    | Nathan da Motta Truyts      | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/) | [GitHub](https://github.com/Nathtruyts)      |
-|   Dev Team    | Borges                      | [LinkedIn](https://www.linkedin.com/)                            | [GitHub](https://github.com/)                |
+| Product Owner | Isabelle Dias Ribeiro Silva | [LinkedIn](https://www.linkedin.com/in/drisabelles)                    | [GitHub](https://github.com/drisabelles)     |
+|   Dev Team    | Adriano Andrade Almeida     | [LinkedIn](https://www.linkedin.com/in/aeroadriano/)                   | [GitHub](https://github.com/aeroadriano)     |
+|   Dev Team    | Ana Carolina dos Santos     | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/)          | [GitHub](https://github.com/annakks)         |
+|   Dev Team    | Gabriele Gonçalves Vieira   | [LinkedIn](https://www.linkedin.com/mwlite/in/gabrielevieira)          | [GitHub](https://github.com/GabrieleGVieira) |
+|   Dev Team    | Nathan da Motta Truyts      | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/)       | [GitHub](https://github.com/Nathtruyts)      |
+|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](hhttps://github.com/Miojoguu)                |
 
 → [Voltar ao topo](#topo)
