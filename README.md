@@ -29,7 +29,7 @@ Entregas serão realizadas nas datas:
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/) | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/Planejamento/Sprint_1md) |
+01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/) | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Planejamento/Sprint_1/README.md) |
 02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
 03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
 04          | 05/12/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
@@ -98,7 +98,7 @@ Gif aqui
 ##  🛠️ Tecnologias
   
 
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto até o momento:
   
 - [Figma](http://www.figma.com): Prototipagem
 - [React](https://pt-br.reactjs.org/docs/getting-started.html): Front-end (estrutura das páginas, estilização e interações do site)
@@ -106,6 +106,13 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 - [Jupyter Notebook](https://jupyter.org/): Análise de dados
 - [NumPy](https://numpy.org/doc/stable/): Análise de dados
 - [Openvc](https://opencv.org/): Processamento de imagens
+- [Amazon Web Services - AWS](https://aws.amazon.com/pt/): Local onde estão armazenadas as informações dos satélites
+- [JSON](https://www.json.org/json-en.html): Leitura e manipulação dos dados dos satélites
+- [SpatioTemporal Asset Catalogs - STAC](https://stacspec.org/): API e Catálago para as imagens dos satélites
+- [Leafmap](https://leafmap.org/): Plotagem de mapas em Python
+- [Leaflet](https://leafletjs.com/): Plotagem de mapas em Javascript
+- [TypeScript](https://www.typescriptlang.org/): Estruturação
+- [Node.js](https://nodejs.org/en/): Servidor 
 - [Visual Studio Code](https://code.visualstudio.com/): Codificação
 - [Discord](https://discord.com/): Comunicação
 - [GitHub](https://github.com/): Versionamento
