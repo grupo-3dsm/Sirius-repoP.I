@@ -37,24 +37,11 @@ Entregas serão realizadas nas datas:
   
 → [Voltar ao topo](#topo)
   
-<span id="backlogs">
+<span id="backlog">
   
-## 🌎 Backlogs
+## 🌎 Backlog do Produto
   
-### Backlog do Produto
 <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Backlog-Produto.png">
-    
-### Backlog da Sprint 1
-<img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Backlog.png">
-    
-### Backlog da Sprint 2
-<img src = "https://img.shields.io/badge/EM%20BREVE-lightgrey">
-
-### Backlog da Sprint 3
-<img src = "https://img.shields.io/badge/EM%20BREVE-lightgrey">
-    
-### Backlog da Sprint 4
-<img src = "https://img.shields.io/badge/EM%20BREVE-lightgrey">
   
 <span id = "user-stories">
 
