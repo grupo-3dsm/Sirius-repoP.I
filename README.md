@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
+
 <br id="topo">
 <h1 align = "center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre DSM </h1>
 <p align = "center">
@@ -20,7 +22,6 @@
 
 Desenvolvimento de um portal web com interface de mapa, baseado em serviços de computação em nuvem utilizando tiles, que acessa imagens públicas de satélites e permita consultar, manipular e proporcionar download de imagens para seu usuário, entregando de maneira incremental valor ao cliente durante 4 sprints.
 Projeto tem por base a metodologia ágil SCRUM, em que desenvolve Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos.
->  Status do Projeto: Em Desenvolvimento
   
   
 ### 🛰️ Entregas de Sprints
@@ -28,10 +29,10 @@ Entregas serão realizadas nas datas:
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 19/09/2021  | Em desenvolvimento | [Link](/planejamento/Sprint_1/README.md) |
-02          | 10/10/2021  | Em desenvolvimento | Link
-03          | 07/11/2021  | Em desenvolvimento | Link
-04          | 05/12/2021  | Em desenvolvimento | Link
+01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/) | [Acessar](/planejamento/Sprint_1/README.md) |
+02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
+03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
+04          | 05/12/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
   
   
 → [Voltar ao topo](#topo)
@@ -41,20 +42,19 @@ Entregas serão realizadas nas datas:
 ## 🌎 Backlogs
   
 ### Backlog do Produto
-
-<<<<<<< HEAD
-![](/imagens/backlog_do_produto.png)
-  
-### Backlog da Sprint
-
-![](/imagens/backlog_sprint1.png)
-=======
 <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Backlog-Produto.png">
-  
-### Backlog da Sprint
-
+    
+### Backlog da Sprint 1
 <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Backlog.png">
->>>>>>> d8bdfe88788ef4624b03f5bd449aaabda348249c
+    
+### Backlog da Sprint 2
+<img src = "https://img.shields.io/badge/EM%20BREVE-lightgrey">
+
+### Backlog da Sprint 3
+<img src = "https://img.shields.io/badge/EM%20BREVE-lightgrey">
+    
+### Backlog da Sprint 4
+<img src = "https://img.shields.io/badge/EM%20BREVE-lightgrey">
   
 <span id = "user-stories">
 
@@ -100,18 +100,18 @@ Gif aqui
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
   
-- [ Figma ] (http://www.figma.com): Prototipagem
-- [ React ] (https://pt-br.reactjs.org/docs/getting-started.html): Estrutura das páginas do site, Estilização do site e Interações do site
-- [ Python ] (https://www.python.org/): Back-end
-- [ Jupyter Notebook ] (https://jupyter.org/): Análise de dados
-- [ NumPy ] (https://numpy.org/doc/stable/): Análise de dados
-- [ Openvc ] (https://opencv.org/): Processamento de imagens
-- [ Visual Studio Code ] (https://code.visualstudio.com/): Codificação
-- [ Discord ] (https://discord.com/): Comunicação
-- [ GitHub ] (https://github.com/): Versionamento
-- [ Trello ] (https://trello.com/pt-BR): Organização e acompanhamento das tarefas
-- [ Planilhas Google ] (https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown
-- [Portable Document Format - PDF] : Documentação
+- [Figma](http://www.figma.com): Prototipagem
+- [React](https://pt-br.reactjs.org/docs/getting-started.html): Front-end (estrutura das páginas, estilização e interações do site)
+- [Python](https://www.python.org/): Back-end (aplicações internas para o apoio das ações do usuário)
+- [Jupyter Notebook](https://jupyter.org/): Análise de dados
+- [NumPy](https://numpy.org/doc/stable/): Análise de dados
+- [Openvc](https://opencv.org/): Processamento de imagens
+- [Visual Studio Code](https://code.visualstudio.com/): Codificação
+- [Discord](https://discord.com/): Comunicação
+- [GitHub](https://github.com/): Versionamento
+- [Trello](https://trello.com/pt-BR): Organização e acompanhamento das tarefas
+- [Planilhas Google](https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown e do desenvolvimento das atividades
+- Portable Document Format - PDF: Documentação
 
 → [Voltar ao topo](#topo)
   
@@ -126,6 +126,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Ana Carolina dos Santos     | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/)          | [GitHub](https://github.com/annakks)         |
 |   Dev Team    | Gabriele Gonçalves Vieira   | [LinkedIn](https://www.linkedin.com/mwlite/in/gabrielevieira)          | [GitHub](https://github.com/GabrieleGVieira) |
 |   Dev Team    | Nathan da Motta Truyts      | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/)       | [GitHub](https://github.com/Nathtruyts)      |
-|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](hhttps://github.com.Miojoguu)       |
+|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](https://github.com.Miojoguu)        |
 
 → [Voltar ao topo](#topo)
