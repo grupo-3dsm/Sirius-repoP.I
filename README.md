@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-orange)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
 
 <br id="topo">
 <h1 align = "center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre DSM </h1>
@@ -29,10 +29,10 @@ Entregas serão realizadas nas datas:
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 19/09/2021  | Em desenvolvimento | [Link](/planejamento/Sprint_1/README.md) |
-02          | 10/10/2021  | Em desenvolvimento | Link
-03          | 07/11/2021  | Em desenvolvimento | Link
-04          | 05/12/2021  | Em desenvolvimento | Link
+01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/) | [Acessar](/planejamento/Sprint_1/README.md) |
+02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
+03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
+04          | 05/12/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
   
   
 → [Voltar ao topo](#topo)
