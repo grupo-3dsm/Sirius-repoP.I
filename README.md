@@ -101,8 +101,8 @@ Gif aqui
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
   
 - [Figma](http://www.figma.com): Prototipagem
-- [React](https://pt-br.reactjs.org/docs/getting-started.html): Estrutura das páginas do site, Estilização do site e Interações do site
-- [Python](https://www.python.org/): Back-end
+- [React](https://pt-br.reactjs.org/docs/getting-started.html): Front-end (estrutura das páginas, estilização e interações do site)
+- [Python](https://www.python.org/): Back-end (aplicações internas para o apoio das ações do usuário)
 - [Jupyter Notebook](https://jupyter.org/): Análise de dados
 - [NumPy](https://numpy.org/doc/stable/): Análise de dados
 - [Openvc](https://opencv.org/): Processamento de imagens
@@ -110,7 +110,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 - [Discord](https://discord.com/): Comunicação
 - [GitHub](https://github.com/): Versionamento
 - [Trello](https://trello.com/pt-BR): Organização e acompanhamento das tarefas
-- [Planilhas Google](https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown
+- [Planilhas Google](https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown e do desenvolvimento das atividades
 - Portable Document Format - PDF: Documentação
 
 → [Voltar ao topo](#topo)
