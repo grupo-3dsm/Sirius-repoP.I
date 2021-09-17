@@ -69,4 +69,4 @@ através da ferramenta Jupyter Notebook, que contém um código no qual mostra a
 ## :file_folder: Organização do Repositórios 
 
 Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
-### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/Planejamento/Sprint_1/src">/src</a>:
+### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/projeto">/projeto</a>:
