@@ -10,7 +10,7 @@
  
 <span id="objetivo">
 
-## : Objetivo
+## 🎯 Objetivo
 
 1. Refinamento dos requisitos, para viabilizar o Mínimo Produto Viável - MVP:
 
@@ -37,23 +37,28 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
  
 → [Voltar ao topo](#topo)
 
+<span id="backlog">
+
+## 🌎 Backlog
+
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Backlog.png)
 
 <span id="wireframe">
 
-## Wireframe
+## 🖊️ Wireframe
 
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Wireframe-A.png)
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Wireframe-B.png)
 
 <span id="prototipo">
 
-## Protótipo
+## ⚙️ Protótipo
 
 Giff Protótipo aqui
 
 <span id="org">
 
-## Organização da Equipe
+## 🗃️ Organização da Equipe
 
 Depois de refinar os requisitos e definir as tarefas, assim como as ferramentas e tecnologias que seriam usadas, cada componente a equipe ficou responsável por determinadas
 tarefas que corresponde a requisitos do Backlog da Sprint e consequentemente ao Backlog do Produto, sendo a comunicação atras de reuniões on-line e Daily Meeting diários.
@@ -69,4 +74,4 @@ através da ferramenta Jupyter Notebook, que contém um código no qual mostra a
 ## :file_folder: Organização do Repositórios 
 
 Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
-### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/projeto">/projeto</a>:
+### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto">/projeto</a>:
