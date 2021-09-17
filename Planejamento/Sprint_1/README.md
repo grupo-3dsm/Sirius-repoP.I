@@ -19,6 +19,8 @@
 Interface, Font-End, onde a partir dela é possível realizada a busca de uma imagem da áreas desejadas, através de um Basemap (Leafleat).
 Separadamente entregaremos o back-end que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
 
+2. Organização da equipe e planejamento de processos;
+
 - [x] Criar uma página navegável (no estilo Google Maps);
 - [x] Utilizar uma biblioteca pronta (Leafleat) para exibir um basemap;
 - [x] Carregar a imagem de satélite;
@@ -26,9 +28,6 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
 - [x] Acessar imagens do satélite de repositório local;
 - [x] Utilizar apenas imagens de 1 satélite;
 - [x] Foto de São José dos Campos.
-
-
-2. Organização da equipe e planejamento de processos;
 
 3. Confecção do wireframe, um rascunho do protótipo;
 
