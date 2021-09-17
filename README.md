@@ -14,11 +14,6 @@
 
 1. Refinamento dos requisitos, para viabilizar o Mínimo Produto Viável - MVP:
 
-<p>O que vamos entregar?</p>
-
-Interface, Font-End, onde a partir dela é possível realizada a busca de uma imagem da áreas desejadas, através de um Basemap (Leafleat).
-Separadamente entregaremos o back-end que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
-
 2. Organização da equipe e planejamento de processos;
 
 - [x] Criar uma página navegável (no estilo Google Maps);
@@ -37,6 +32,15 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
  
 → [Voltar ao topo](#topo)
 
+<span id="mvp">
+
+## 🛴 MVP - Mínimo Produto Viável
+
+<p>O que vamos entregar?</p>
+
+Interface, Font-End, onde a partir dela é possível realizada a busca de uma imagem da áreas desejadas, através de um Basemap (Leafleat).
+Separadamente entregaremos o back-end que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
+    
 <span id="backlog">
 
 ## 🌎 Backlog
@@ -52,7 +56,7 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
 
 <span id="prototipo">
 
-## ⚙️ Protótipo
+## :desktop_computer: Protótipo
 
 Giff Protótipo aqui
 
