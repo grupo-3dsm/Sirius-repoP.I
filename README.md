@@ -100,18 +100,18 @@ Gif aqui
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
   
-- [ Figma ] (http://www.figma.com): Prototipagem
-- [ React ] (https://pt-br.reactjs.org/docs/getting-started.html): Estrutura das páginas do site, Estilização do site e Interações do site
-- [ Python ] (https://www.python.org/): Back-end
-- [ Jupyter Notebook ] (https://jupyter.org/): Análise de dados
-- [ NumPy ] (https://numpy.org/doc/stable/): Análise de dados
-- [ Openvc ] (https://opencv.org/): Processamento de imagens
-- [ Visual Studio Code ] (https://code.visualstudio.com/): Codificação
-- [ Discord ] (https://discord.com/): Comunicação
-- [ GitHub ] (https://github.com/): Versionamento
-- [ Trello ] (https://trello.com/pt-BR): Organização e acompanhamento das tarefas
-- [ Planilhas Google ] (https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown
-- [Portable Document Format - PDF] : Documentação
+- [Figma](http://www.figma.com): Prototipagem
+- [React](https://pt-br.reactjs.org/docs/getting-started.html): Estrutura das páginas do site, Estilização do site e Interações do site
+- [Python](https://www.python.org/): Back-end
+- [Jupyter Notebook](https://jupyter.org/): Análise de dados
+- [NumPy](https://numpy.org/doc/stable/): Análise de dados
+- [Openvc](https://opencv.org/): Processamento de imagens
+- [Visual Studio Code](https://code.visualstudio.com/): Codificação
+- [Discord](https://discord.com/): Comunicação
+- [GitHub](https://github.com/): Versionamento
+- [Trello](https://trello.com/pt-BR): Organização e acompanhamento das tarefas
+- [Planilhas Google](https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown
+- Portable Document Format - PDF: Documentação
 
 → [Voltar ao topo](#topo)
   
