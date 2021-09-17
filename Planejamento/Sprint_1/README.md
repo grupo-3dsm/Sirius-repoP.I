@@ -10,13 +10,14 @@
  
 <span id="objetivo">
 
-## Objetivo
+## : Objetivo
 
 1. Refinamento dos requisitos, para viabilizar o Mínimo Produto Viável - MVP:
 
-O que vamos entregar?
-Interface, Font-End, onde a partir dela é possivel realizada a busca de uma imagem da àreas desejadas, através de um Basemap (Leafleat).
-Separadamente entregaremos o back-end que contem um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
+<p>O que vamos entregar?</p>
+
+Interface, Font-End, onde a partir dela é possível realizada a busca de uma imagem da áreas desejadas, através de um Basemap (Leafleat).
+Separadamente entregaremos o back-end que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
 
 - [x] Criar uma página navegável (no estilo Google Maps);
 - [x] Utilizar uma biblioteca pronta (Leafleat) para exibir um basemap;
@@ -28,25 +29,44 @@ Separadamente entregaremos o back-end que contem um código no qual mostra a pos
 
 
 2. Organização da equipe e planejamento de processos;
+
 3. Confecção do wireframe, um rascunho do protótipo;
-4. Desenvolvimento do protótipo.
+
+4. Organização da Equipe
+
+5. Desenvolvimento do protótipo.
  
 → [Voltar ao topo](#topo)
 
+
 <span id="wireframe">
+
+## Wireframe
 
 Giff Wireframe aqui
 
 <span id="prototipo">
 
+## Protótipo
+
 Giff Protótipo aqui
 
 <span id="org">
 
-Depois de refinar os requisitos e definir as tarefas, assim como as ferramentas e tecnologias que seriam usadas, cada componete a equipe ficou responsavel por determinadas tarefas que corresponde a requisitos do Backlog da Sprint e consequentimente ao Backlog do Produto, sendo a comunicação atras de reuniões on-line e Daily Meeting diarios. Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem da àreas desejadas, através de um Basemap (Leafleat) e back-end, através da ferramenta Jupyter Notebook, que contem um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples. 
+## Organização da Equipe
 
-![](burndow_chart_sprint1.PNG)
+Depois de refinar os requisitos e definir as tarefas, assim como as ferramentas e tecnologias que seriam usadas, cada componente a equipe ficou responsável por determinadas
+tarefas que corresponde a requisitos do Backlog da Sprint e consequentemente ao Backlog do Produto, sendo a comunicação atras de reuniões on-line e Daily Meeting diários.
+Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem das áreas desejadas, através de um Basemap (Leafleat) e back-end, 
+através da ferramenta Jupyter Notebook, que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
 
-![](tarefas_sprint1.PNG)
+![](/Planejamento/Sprint_1/burndow_chart_sprint1.png)
+
+![](/Planejamento/Sprint_1/tarefas_sprint1.png)
 
 <span id="repo">
+
+## :file_folder: Organização do Repositórios 
+
+Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
+### 📁 <a href="">/src</a>:
