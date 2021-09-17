@@ -42,7 +42,8 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
 
 ## Wireframe
 
-Giff Wireframe aqui
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Wireframe-A.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Wireframe-B.png)
 
 <span id="prototipo">
 
