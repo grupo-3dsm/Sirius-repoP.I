@@ -41,7 +41,7 @@ Entregas serão realizadas nas datas:
   
 ## 🌎 Backlog do Produto
   
-<img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Backlog-Produto.png">
+<img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Backlog.png">
   
 <span id = "user-stories">
 
@@ -67,7 +67,12 @@ Informações informais sobre as funções do sistema
   
 → [Voltar ao topo](#topo)
   
-  
+<span id="wireframe">
+
+## 🖊️ Wireframe
+
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe.png)
+    
 <span id = "prototipo">
   
 ## :desktop_computer: Protótipo
