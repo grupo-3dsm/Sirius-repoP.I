@@ -58,7 +58,7 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
 
 ## :desktop_computer: Protótipo
 
-Giff Protótipo aqui
+<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Prototipo.gif">
 
 <span id="org">
 
