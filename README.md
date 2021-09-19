@@ -6,6 +6,7 @@
     <a href="#prototipo">Protótipo</a> | 
     <a href="#org">Organização da Equipe</a> | 
     <a href="#repo">Organização do Repositório</a> 
+    <a href="#entregas">Entregas</a> 
  </p>
  
 <span id="objetivo">
@@ -39,7 +40,7 @@
 <p>O que vamos entregar?</p>
 
 Interface, Font-End, onde a partir dela é possível realizada a busca de uma imagem da áreas desejadas, através de um Basemap (Leafleat).
-Separadamente entregaremos o back-end que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
+Separadamente entregaremos o back-end que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes do satélite CBERS4 e realizar download simples em formato .tiff, download das bandas separadas ou download da imagem com contraste e brilho aplicado.
     
 <span id="backlog">
 
@@ -79,3 +80,113 @@ através da ferramenta Jupyter Notebook, que contém um código no qual mostra a
 
 Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
 ### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto">/projeto</a>:
+    
+    
+<span id="entregas">
+
+## :white_check_mark: Entregas
+    
+### Front-end
+
+- [x] 005 - Interface Web: Funcionalidade de Controle da Imagem
+    
+- [x] 012 - Interface Web: Filtrar e Buscar a Imagem no Portal Web
+    
+### Back-end
+    
+- [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
+    
+Nessa sprint foi realizado o acesso ao reposítorio AWS do satélite CBERS4 e realizando busca com os filtros de período de aquisição da imagem e a área de interesse. Adiante será aplicado o filtro de cobertura de nuvens.
+    
+- [x] 002 - Obtenção de Imagem: Disponibilizar a imagem para o portal web
+ 
+Como o sistema back-end e front-end ainda estão sendo entregues separados, não de modo interligado, a imagem ainda não será visualizada no portal web. Porém, ela já está disponível para visualização através do back-end.
+
+ - [x] 006 - Processamento de Imagem: Coloração da Imagem
+    
+Foi inserido a funcionalidade de aplicar Contraste e Brilho nas imagens. Por enquanto está sendo entregue com valores fixos, porém nas próximas sprints será possível o próprio utilizados aplicar.
+    
+- [x] 009 - Estrutura Web: Permitir Download de Imagens
+    
+É possível fazer o download da imagem em formato .tiff com todas as bandas juntas, fazer o download da imagem com brilho e contraste aplicado, e download das bandas separadas.
+    
+ Segue abaixo exemplos do back-end en funcionamento:
+    
+###### Parâmetros utilizados:
+- Câmera: MUX
+- Data de inicio: 2020-09-01
+- Data de fim: 2020-09-31
+- Latitude: -23.1791
+- Longitude: -45.8872
+A latitude e longitude busca as imagens da região da cidade de São José dos Campos.
+    
+> A imagens apresentadas estão em formato JPG por conta do tamanho, mas o download é feito em formato .tiff
+    
+###### Imagem com todas as bandas juntas: </b>
+    
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-imagem-satelite.jpg)
+    
+###### Imagem das Bandas separadas </b>
+    
+    ---- Inserir as imagens das três bandas
+    
+###### Imagem com Contraste e Brilho aplicados
+        
+     ----- Inserir a imagem
+        
+###### Mapa com demarcação da área
+> Essa funcionalidade está apenas disponível para visualização através do Jupyter Notebook, será uma das incrementações que na verdade serão visualizadas através do Front-end.
+
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Mapa.jpg)
+        
+######  Exemplo da busca sendo realizada:
+        
+     --- inserir gif
+        
+É possível acessar o back-end de duas maneiras, através do arquivo em formato Jupyter Notebook, podendo ser acessado [aqui]() ou através de um buscador em python, encontrado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/ferramenta-busca-CBERS4.py), onde já será possível interagir, realizando a busca e o download das imagens.
+        
+###### Para baixar e acessar o buscador, siga os passos abaixo:
+        
+1 - Requisitos
+    
+- É necessário ter o Python instalado no computador (versão 3.8 ou superior recomendado)
+- Instalar bibliotecas encontradas no arquivo requirements.txt. Pode ser encontrado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/requirements.txt)
+  
+2 - Utilização
+
+- Baixe o [arquivo com formato python](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/ferramenta-busca-CBERS4.py)
+- Verifique se os requisitos descritos no 1 estão ok
+- Acesse dando 2 clicks para executar
+ 
+3 - Inserir parâmetros
+O programa irá pedir alguns parâmetros para busca e é importante seguir o padrão para bom funcionamento.
+    
+###### "Digite qual câmera você deseja:"
+    
+As câmeras do CBERS4 são: AWFI, MUX, PAN1 e PAN5M
+    
+:warning: Mantenha as letras de forma maiúscula
+    
+###### "Digite uma data de inicio" e "Digite uma data de fim"
+    
+ O formato das datas deve ser: aaaa-mm-dd
+    
+ Exemplo: 2020-09-19
+ 
+###### "Digite a latitude" e "Digite a longitude"
+    
+Mantenha o . como padrão para as coordenadas
+    
+Exemplo: -23.1791
+
+###### "Qual das datas você deseja consultar? Digite aqui:"
+    
+O programa irá te retornar todas as datas encontradas no período de busca solicitado, basta escolher uma e inserir.
+    
+:warning: Reforçando o formato da data é: aaaa-mm-dd
+    
+Nas perguntas seguintes basta apenas responder com "S" ou "N",em formato maiúsculo, de acordo com o que você deseja realizar.
+
+
+    
+    
