@@ -46,14 +46,14 @@ Separadamente entregaremos o back-end que contém um código no qual mostra a po
 
 ## 🌎 Backlog
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Backlog.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Backlog.png)
 
 <span id="wireframe">
 
 ## 🖊️ Wireframe
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Wireframe-A.png)
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Wireframe-B.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Wireframe-A.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Wireframe-B.png)
 
 <span id="prototipo">
 
@@ -70,9 +70,9 @@ tarefas que corresponde a requisitos do Backlog da Sprint e consequentemente ao 
 Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem das áreas desejadas, através de um Basemap (Leafleat) e back-end, 
 através da ferramenta Jupyter Notebook, que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Burndown-A.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Burndown-A.png)
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint1-Burndown-B.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Burndown-B.png)
 
 <span id="repo">
 
