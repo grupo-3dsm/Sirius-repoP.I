@@ -9,11 +9,12 @@ from PIL import Image
 import cv2
 import numpy as np
 import zipfile
+import time
 
 cameras = {
 'AWFI' : 'https://s3.amazonaws.com/cbers-meta-pds/AWFIscene_list.csv.gz',
 'MUX' : 'https://s3.amazonaws.com/cbers-meta-pds/MUXscene_list.csv.gz',
-'PAN1' : ' https://s3.amazonaws.com/cbers-meta-pds/PAN10Mscene_list.csv.gz',
+'PAN10M' : ' https://s3.amazonaws.com/cbers-meta-pds/PAN10Mscene_list.csv.gz',
 'PAN5M' : ' https://s3.amazonaws.com/cbers-meta-pds/PAN5Mscene_list.csv.gz'}
 
 
@@ -60,10 +61,14 @@ if len(busca_satelite) > 1:
         resultado.append(busca)
         print('Econtramos essa data: ' + busca_satelite[i]['acquisition_date'][0:10])
         i = i + 1
-else:
-    busca = [busca_satelite[i]['acquisition_date'][0:10], busca_satelite[0]]
+elif len(busca_satelite) == 1:
+    busca = [busca_satelite[0]['acquisition_date'][0:10], busca_satelite[0]]
     resultado.append(busca)
     print('Econtramos essa data: ' + busca_satelite[0]['acquisition_date'][0:10])
+else:
+    print('Não houve nenhum resultado, tente outros parâmetros!')
+    time.sleep(10)
+    quit()
 
 data = input('Qual das datas você deseja consultar? Digite aqui: ')
 resultado = dict(resultado)
@@ -159,6 +164,7 @@ while True:
             break
         except:
             print('Precisa baixar a imagem em formato .tiff antes, caso queira modificar o contraste e o brilho!')
+            time.sleep(10)
             break
 
 
