@@ -82,6 +82,7 @@ Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a 
 ### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto">/projeto</a>:
     
     
+    
 <span id="entregas">
 
 ## :white_check_mark: Entregas
@@ -127,11 +128,11 @@ A latitude e longitude busca as imagens da região da cidade de São José dos C
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-imagem-satelite.jpg)
     
-###### Imagem das Bandas de forma separadas </b>
+###### Bandas separadas </b>
 
 <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-banda2-azul.jpg" width="300"/> <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-banda3-verde.jpg" width="300"/> <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-banda4-vermelho.jpg" width="300"/>  
     
-###### Imagem com Contraste e Brilho aplicados
+###### Imagem com contraste e brilho aplicados
         
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-brilho-contraste.jpg)
         
@@ -140,9 +141,10 @@ A latitude e longitude busca as imagens da região da cidade de São José dos C
 
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Mapa.jpg)
         
-######  Exemplo da busca sendo realizada:
+######  Gif com a busca sendo realizada:
         
-     --- inserir gif
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-ferramenta-busca.gif)
+    
         
 É possível acessar o back-end de duas maneiras, através do arquivo em formato Jupyter Notebook, podendo ser acessado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/BACKEND-API.ipynb) ou através de um buscador em python, encontrado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/ferramenta-busca-CBERS4.py), onde já será possível interagir, realizando a busca e o download das imagens.
         
