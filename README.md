@@ -118,6 +118,7 @@ Foi inserido a funcionalidade de aplicar Contraste e Brilho nas imagens. Por enq
 - Data de fim: 2020-09-31
 - Latitude: -23.1791
 - Longitude: -45.8872
+    
 A latitude e longitude busca as imagens da região da cidade de São José dos Campos.
     
 > A imagens apresentadas estão em formato JPG por conta do tamanho, mas o download é feito em formato .tiff
@@ -126,13 +127,13 @@ A latitude e longitude busca as imagens da região da cidade de São José dos C
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-imagem-satelite.jpg)
     
-###### Imagem das Bandas separadas </b>
-    
-    ---- Inserir as imagens das três bandas
+###### Imagem das Bandas de forma separadas </b>
+
+<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-banda2-azul.jpg" width="300"/> <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-banda3-verde.jpg" width="300"/> <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-banda4-vermelho.jpg" width="300"/>  
     
 ###### Imagem com Contraste e Brilho aplicados
         
-     ----- Inserir a imagem
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-brilho-contraste.jpg)
         
 ###### Mapa com demarcação da área
 > Essa funcionalidade está apenas disponível para visualização através do Jupyter Notebook, será uma das incrementações que na verdade serão visualizadas através do Front-end.
@@ -143,7 +144,7 @@ A latitude e longitude busca as imagens da região da cidade de São José dos C
         
      --- inserir gif
         
-É possível acessar o back-end de duas maneiras, através do arquivo em formato Jupyter Notebook, podendo ser acessado [aqui]() ou através de um buscador em python, encontrado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/ferramenta-busca-CBERS4.py), onde já será possível interagir, realizando a busca e o download das imagens.
+É possível acessar o back-end de duas maneiras, através do arquivo em formato Jupyter Notebook, podendo ser acessado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/BACKEND-API.ipynb) ou através de um buscador em python, encontrado [aqui](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/projeto/ferramenta-busca-CBERS4.py), onde já será possível interagir, realizando a busca e o download das imagens.
         
 ###### Para baixar e acessar o buscador, siga os passos abaixo:
         
@@ -163,7 +164,7 @@ O programa irá pedir alguns parâmetros para busca e é importante seguir o pad
     
 ###### "Digite qual câmera você deseja:"
     
-As câmeras do CBERS4 são: AWFI, MUX, PAN1 e PAN5M
+As câmeras do CBERS4 são: AWFI, MUX, PAN10M e PAN5M
     
 :warning: Mantenha as letras de forma maiúscula
     
