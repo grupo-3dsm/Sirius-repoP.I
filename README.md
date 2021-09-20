@@ -109,7 +109,7 @@ Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a 
   Como visualizar o Front-end  
     
   Para vizualizar o arquivo principal do front-end, carregue a pasta [frontend](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto/Frontend) em seu terminal e dê um Npm start. OBS:(Em alguns computadores o botão de zoom pode não responder, leia o README antes do npm start). 
-  A pasta [Frontend-demo](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto/Frontend), possui uma versão inicial do mapa do leaflet para visualização em HTML. 
+  A pasta [Frontend-demo](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto/Frontend-demo), possui uma versão inicial do mapa do leaflet para visualização em HTML. 
     
 ### Back-end
     
