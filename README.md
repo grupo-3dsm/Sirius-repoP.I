@@ -89,23 +89,27 @@ Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a 
     
 ### Front-end
 
-- [x] 005 - Interface Web: Funcionalidade de Controle da Imagem
-
- Cumprindo com os requisitos da sprint, todo o front-end foi construído ultilizando a linguagens typescript, react e a biblioteca do leaflet, focando em um interface limpa e responsiva.  
+- [x] 005 - Interface Web: Funcionalidade de Controle da Imagem 
+     
+  O uso do leaflet permite que o mapas gerados sejam interativos, possibilitando afastar, dimunuir e mover o mapa para qualquer parte, além de possibilitar a visualização em tela cheia se desejado. Todas essas funções ja vem prontas com o uso da biblioteca e já implementada na aplicação web.
+  
+  Abaixo uma demonstração desse requisito: (Obs: A api do google foi usada apenas para demonstração nessa sprint)
+    
+  ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Frontgif1.gif)
     
 - [x] 012 - Interface Web: Filtrar e Buscar a Imagem no Portal Web
     
- Com o uso da Biblioteca Leaflet, foi possível construir um mapa interativo com a possibilidade de carregar diversas imagens de satélites. (Funcionalidade será 
- aprimorada para sprints futuras).
+ Ainda se ultilizando da biblioteca do leaflet, a aplicação web pode carregar diferentes imagens e filtros, carregando na aplicação. A funcionalidade ja possui um código estruturado, porém, não está completamente concluída e será finalizada erá finalizada nas próximas sprints. Será será inserido a ferramenta para seleção de filtros, locais para seleção do satélite, e ferramenta para download.  
+ Cumprindo com os requisitos da sprint, todo o front-end foi construído ultilizando a linguagens typescript, react e a biblioteca do leaflet, focando em um interface limpa e responsiva, além de facilitar a busca pelos filtros.  
     
- #Segue abaixo uma demonstração do funcionamento das funções acima 
-  
-  ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Frontgif1.gif)  
- Obs: Para fins de apresentação, foi ultilizada apenas nessa sprint, uma api do google maps. O uso do typescript e react continuam no arquivo disponivel no código.  
-    
+ Segue abaixo uma demonstração do funcionamento da função:
+     
   ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-Frontgif2.gif)  
+  
+ ## Como visualizar a aplicação   
     
-  Para vizualizar o arquivo principal do front-end, carregue a pasta "frontend" em seu terminal e dê um Npm start. OBS:(Em alguns computadores o botão de zoom pode não responder). A pasta "Frontend-demo", possui uma versão inicial do mapa do leaflet para visualização em HTML.  
+  Para vizualizar o arquivo principal do front-end, carregue a pasta [frontend](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto/Frontend) em seu terminal e dê um Npm start. OBS:(Em alguns computadores o botão de zoom pode não responder, leia o README antes do npm start). 
+  A pasta [Frontend-demo](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto/Frontend), possui uma versão inicial do mapa do leaflet para visualização em HTML. 
     
 ### Back-end
     
