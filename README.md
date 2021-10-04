@@ -1,128 +1,112 @@
-[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
-
 <br id="topo">
-<h1 align = "center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre DSM </h1>
-<p align = "center">
-<img src = "https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/fatec-logo.png" width = "140px" height = "70px">
-<h1 text align="center">Sirius </h1>
-<p align = "center">
-    <a href="#sobre"> Sobre </a> | 
-    <a href="#backlogs"> Backlogs </a> | 
-    <a href="#user-stories"> User Stories </a> | 
-    <a href="#prototipo"> Protótipo </a> | 
-    <a href="#tecnologias"> Tecnologias </a> |
-    <a href="#equipe"> Equipe </a> | 
-    <a href="#licenca"> Licença </a>
-</p>
-   
+<h1 align="center"> Sprint 2: 20/09/2021 a 10/10/2021 </h1>
+<p align="center"> 
+    <a href="#objetivos">Objetivos da Sprint</a> |
+    <a href="#wireframe">Wireframe</a> | 
+    <a href="#prototipo">Protótipo</a> | 
+    <a href="#org">Organização da Equipe</a> | 
+    <a href="#repo">Organização do Repositório</a> |
+    <a href="#entregas">Entregas</a> 
+ </p>
+ 
+<span id="objetivos">
 
-<span id = "sobre">
+## 🎯 Objetivos
 
-## :computer: Sobre o projeto 
+1. Refinamento dos requisitos, para viabilizar o Mínimo Produto Viável - MVP.
 
-Desenvolvimento de um portal web com interface de mapa, baseado em serviços de computação em nuvem utilizando tiles, que acessa imagens públicas de satélites e permita consultar, manipular e proporcionar download de imagens para seu usuário, entregando de maneira incremental valor ao cliente durante 4 sprints.
-Projeto tem por base a metodologia ágil SCRUM, em que desenvolve Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos.
-  
-  
-### 🛰️ Entregas de Sprints
-Entregas serão realizadas nas datas:
+2. Organização da equipe e planejamento de processos;
 
-**Sprint**  | **Entrega** | **Status**         | **Link**
-:---------: | :------:    | :-------:          | :-------:
-01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/) | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1) |
-02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)  | Acessar
-03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
-04          | 05/12/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
-  
-  
+- [x] Criar uma estrutura e estilização agradáveis para o site;
+- [x] Desenvolver um meio de conexão do front-end com o back-end;
+- [x] Carregar a imagem de mais um satélite;
+- [x] Acesso das imagens do satélite de repositório local;
+- [x] Utilização de imagens de 2 satélites: CBERS-4 e Landsat 8;
+- [x] Imagens da cidade de São José dos Campos.
+
+3. Confecção do wireframe, um rascunho do protótipo;
+
+4. Organização da Equipe
+
+5. Desenvolvimento do protótipo.
+ 
 → [Voltar ao topo](#topo)
-  
+
+<span id="mvp">
+
+## 🛴 MVP - Mínimo Produto Viável
+
+<p>O que vamos entregar?</p>
+
+Interface web (site) estruturada e estilizada, contendo as ferramentas de zoom, pan, download de imagem e filtro para busca das imagens. Possibilitada também a conexão entre o front-end e o back-end, disponibilizando as informações no portal web.
+    
 <span id="backlog">
-  
-## 🌎 Backlog do Produto
-  
-<img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Backlog.png">
-  
-<span id = "user-stories">
 
-## User Stories
+## 🌎 Backlog
 
-Informações informais sobre as funções do sistema 
-      
-**Aplicabilidade** |           **Quem**       |               **O que?**                                                        |    **Como?**                                 |
-:------------:     | :----------------------  | :---------------------------------------------------------------------------    | :----------------------------------          |
-| Obrigatório      | Como usuário quero       | Buscar por imagens de forma específica                                          | Com um filtro de pesquisa no portal web      |
-| Opicional        | Como usuário quero       | Realizar login na plaraforma                                                    | Através da autentificação via e-mail e senha |
-| Opicional        | Como usuário quero       | Poder ajusta o brilho, realce de contraste e transparência do mapa              | Com uma ferramenta de manipulação de imagem  |
-| Opicional        | Como usuário quero       | Conseguir comparar uma área em diferentes períodos                              | Utilizando uma ferramenta de linha de tempo  |
-| Obrigatório      | Como usuário quero       | Poder salvar alguma imagem em meu computador                                    | Através de uma ferramenta de download        |
-| Obrigatório      | Como usuário quero       | Conseguir movimentar a imagem em todas as direções                              | Com uma ferramenta de movimentação pan       |
-| Obrigatório      | Como usuário quero       | Estar habilitado a aproximar e distanciar as imagens                            | Utilizando uma ferramente de zoom in e out   |
-| Obrigatório      | Como administrador quero | Disponibilizar as imagens de satélite e geoprocessamento numa interface de mapa | Através de basemaps para mapa e imagens de satélite |
-| Obrigatório      | Como administrador quero | Encontrar imagens a serem expostas no portal web                                | Consultando os repositórios públicos em nuvem dos satélites escolhidos |
-| Opicional        | Como administrador quero | Restringir a entrada na plataforma apenas para pessoas permitidas               | Com a autenticação de login através do e-mail e senha |
-| Obrigatório      | Como administrador quero | Exibir imagens com boa qualidade e rapidez na renderização                      | Através da utilização de web tiles dinâmicos |
-| Obrigatório      | Como administrador quero | Exibir imagens com boa colocaração e definição                                  | Utilizando um tratamento de imagem com cores naturais e realçadas |
-| Opicional        | Como administrador quero | Permitir que os usuários possam ver as imagens além da forma padrão             | Oferecendo opções de visualização de imagem (colorida falsa-cor e NDVI) |
-  
-→ [Voltar ao topo](#topo)
-  
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Backlog.png)
+
 <span id="wireframe">
 
 ## 🖊️ Wireframe
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe.png)
-    
-<span id = "prototipo">
-  
+![](inserir a imagem do wireframe)
+![](inserir a imagem do wireframe)
+
+<span id="prototipo">
+
 ## :desktop_computer: Protótipo
 
-Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, validado com o cliente:
+![](inserir gif do protótipo)
 
-<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Prototipo.gif">
-  
-→ [Voltar ao topo](#topo)
-  
-<span id = "tecnologias">
+<span id="org">
+
+## 🗃️ Organização da Equipe
+
+Depois de refinar os requisitos e definir as tarefas, assim como as ferramentas e tecnologias que seriam usadas, cada componente a equipe ficou responsável por determinadas
+tarefas que corresponde a requisitos do Backlog da Sprint e consequentemente ao Backlog do Produto, sendo a comunicação atras de reuniões on-line e Daily Meeting diários.
+Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem das áreas desejadas, através de um Basemap (Leafleat) e back-end, 
+através da ferramenta Jupyter Notebook, que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
+
+![](inserir a imagem do burndown)
+
+![](inserir a imagem do burndown)
+
+<span id="repo">
+
+## :file_folder: Organização do Repositórios 
+
+Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
+### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto">/projeto</a>:
+    
+    
+    
+<span id="entregas">
+
+## :white_check_mark: Entregas
+    
+### Front-end
+
+- [x] 013 - Interface Web: Desenvolvimento Pleno do Front-end
+      
+  ![](inserir gif)
+    
+### Back-end
+    
+- [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
+    
+
+    
+- [x] 002 - Obtenção de Imagem: Disponibilizar a imagem para o portal web
  
-##  🛠️ Tecnologias
-  
 
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto até o momento:
-  
-- [Figma](http://www.figma.com): Prototipagem
-- [React](https://pt-br.reactjs.org/docs/getting-started.html): Front-end (estrutura das páginas, estilização e interações do site)
-- [Python](https://www.python.org/): Back-end (aplicações internas para o apoio das ações do usuário)
-- [Jupyter Notebook](https://jupyter.org/): Análise de dados
-- [NumPy](https://numpy.org/doc/stable/): Análise de dados
-- [Openvc](https://opencv.org/): Processamento de imagens
-- [Amazon Web Services - AWS](https://aws.amazon.com/pt/): Local onde estão armazenadas as informações dos satélites
-- [JSON](https://www.json.org/json-en.html): Leitura e manipulação dos dados dos satélites
-- [SpatioTemporal Asset Catalogs - STAC](https://stacspec.org/): API e Catálago para as imagens dos satélites
-- [Leafmap](https://leafmap.org/): Plotagem de mapas em Python
-- [Leaflet](https://leafletjs.com/): Plotagem de mapas em Javascript
-- [TypeScript](https://www.typescriptlang.org/): Estruturação
-- [Node.js](https://nodejs.org/en/): Servidor 
-- [Visual Studio Code](https://code.visualstudio.com/): Codificação
-- [Discord](https://discord.com/): Comunicação
-- [GitHub](https://github.com/): Versionamento
-- [Trello](https://trello.com/pt-BR): Organização e acompanhamento das tarefas
-- [Planilhas Google](https://www.google.com/sheets/about/): Acompanhamento do gráfico de burndown e do desenvolvimento das atividades
-- Portable Document Format - PDF: Documentação
 
-→ [Voltar ao topo](#topo)
-  
-<span id="equipe">
-  
-## 👥 Equipe
-|    Função     | Nome                        |                LinkedIn                                                |                     GitHub                   |
-| :----------:  | :-----------------------    | :----------------------------------------------------:                 | :------------------------------------------: |
-| Scrum Master  | Vinicius Buarque de Gusmão Catonho | [LinkedIn](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) | [GitHub](https://github.com/vbuarque) |
-| Product Owner | Isabelle Dias Ribeiro Silva | [LinkedIn](https://www.linkedin.com/in/drisabelles)                    | [GitHub](https://github.com/drisabelles)     |
-|   Dev Team    | Adriano Andrade Almeida     | [LinkedIn](https://www.linkedin.com/in/aeroadriano/)                   | [GitHub](https://github.com/aeroadriano)     |
-|   Dev Team    | Ana Carolina dos Santos     | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/)          | [GitHub](https://github.com/annakks)         |
-|   Dev Team    | Gabriele Gonçalves Vieira   | [LinkedIn](https://www.linkedin.com/mwlite/in/gabrielevieira)          | [GitHub](https://github.com/GabrieleGVieira) |
-|   Dev Team    | Nathan da Motta Truyts      | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/)       | [GitHub](https://github.com/Nathtruyts)      |
-|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](https://github.com.Miojoguu)        |
+ - [x] 014 - Banco de Dados
+    
 
-→ [Voltar ao topo](#topo)
+    
+
+
+
+    
+    
