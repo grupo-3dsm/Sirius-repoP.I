@@ -1,3 +1,4 @@
+[![Generic badge](https://img.shields.io/badge/STATUS%20DA%20SPRINT-CONCLUIDA-green)](https://shields.io/)
 <br id="topo">
 <h1 align="center"> Sprint 1: 30/08/2021 a 19/09/2021 </h1>
 <p align="center"> 
@@ -5,13 +6,13 @@
     <a href="#wireframe">Wireframe</a> | 
     <a href="#prototipo">Protótipo</a> | 
     <a href="#org">Organização da Equipe</a> | 
-    <a href="#repo">Organização do Repositório</a> 
+    <a href="#repo">Organização do Repositório</a> |
     <a href="#entregas">Entregas</a> 
  </p>
  
-<span id="objetivo">
+<span id="objetivos">
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
 1. Refinamento dos requisitos, para viabilizar o Mínimo Produto Viável - MVP:
 
