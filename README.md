@@ -52,19 +52,19 @@ Interface web (site) estruturada e estilizada, contendo as ferramentas de zoom, 
 ## 🖊️ Wireframe
 
 Página Inicial:  
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Wireframe-PagInicial.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Wireframe-PagInicial.png)
     
 Aba de filtros de busca:   
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Wireframe-FiltragemBusca.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Wireframe-FiltragemBusca.png)
 
 Aba de filtros de imagem:
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Wireframe-FiltrosImagem.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Wireframe-FiltrosImagem.png)
 
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Prototipo.gif)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Prototipo.gif)
 
 <span id="org">
 
