@@ -51,14 +51,20 @@ Interface web (site) estruturada e estilizada, contendo as ferramentas de zoom, 
 
 ## 🖊️ Wireframe
 
-![](inserir a imagem do wireframe)
-![](inserir a imagem do wireframe)
+Página Inicial:  
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Wireframe-PagInicial.png)
+    
+Aba de filtros de busca:   
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Wireframe-FiltragemBusca.png)
+
+Aba de filtros de imagem:
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Wireframe-FiltrosImagem.png)
 
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo
 
-![](inserir gif do protótipo)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/Sprint2-Prototipo.gif)
 
 <span id="org">
 
@@ -78,7 +84,7 @@ através da ferramenta Jupyter Notebook, que contém um código no qual mostra a
 ## :file_folder: Organização do Repositórios 
 
 Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
-### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1/projeto">/projeto</a>:
+### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2/projeto">/projeto</a>:
     
     
     
