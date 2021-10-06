@@ -7,12 +7,12 @@
 <h1 text align="center">Sirius </h1>
 <p align = "center">
     <a href="#sobre"> Sobre </a> | 
-    <a href="#backlogs"> Backlogs </a> | 
+    <a href="#backlog"> Backlog </a> | 
     <a href="#user-stories"> User Stories </a> | 
     <a href="#prototipo"> Protótipo </a> | 
+    <a href="#cronograma"> Cronograma de Entregas </a> |
     <a href="#tecnologias"> Tecnologias </a> |
-    <a href="#equipe"> Equipe </a> | 
-    <a href="#licenca"> Licença </a>
+    <a href="#equipe"> Equipe </a> 
 </p>
    
 
@@ -71,7 +71,17 @@ Informações informais sobre as funções do sistema
 
 ## 🖊️ Wireframe
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe.png)
+Página Inicial:
+    
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-PagInicial.png)
+    
+Aba de filtros para busca:
+    
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FiltragemBusca.png)
+    
+Aba de filtros para imagens:
+    
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FiltrosImagem.png)
     
 <span id = "prototipo">
   
@@ -80,6 +90,14 @@ Informações informais sobre as funções do sistema
 Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, validado com o cliente:
 
 <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Prototipo.gif">
+  
+→ [Voltar ao topo](#topo)
+  
+<span id = "cronograma">
+    
+## 📅 Cronograma de Entregas
+
+<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Cronograma-Entregas.png">
   
 → [Voltar ao topo](#topo)
   
