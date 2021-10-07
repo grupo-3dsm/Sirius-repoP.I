@@ -39,7 +39,7 @@
 
 <p>O que vamos entregar?</p>
 
-Interface web (site) estruturada e estilizada, contendo as ferramentas de zoom, pan, download de imagem e filtro para busca das imagens. Possibilitada também a conexão entre o front-end e o back-end, disponibilizando as informações no portal web.
+Interface web (site) estruturada e estilizada, contendo as ferramentas de zoom, pan, download de imagem e filtro para busca das imagens. Desenvolvida uma modelagem do bancco de dados para visualizar a conexão que ocorrerá entre o front-end e o back-end, disponibilizando as informações no portal web.
     
 <span id="backlog">
 
