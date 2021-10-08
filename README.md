@@ -96,20 +96,21 @@ Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a 
 
 - [x] 013 - Interface Web: Desenvolvimento Pleno do Front-end
       
-  ![](inserir gif)
+  ![](inserir imagens e/ou gifs)
     
 ### Back-end
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
     
-
+    ![](inserir imagens e/ou gifs)
     
 - [x] 002 - Obtenção de Imagem: Disponibilizar a imagem para o portal web
  
+    ![](inserir imagens e/ou gifs)
 
-
- - [x] 014 - Banco de Dados
-    
+- [x] 014 - Banco de Dados
+   
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Modelagem-BancoDeDados.png)
 
     
 
