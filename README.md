@@ -117,8 +117,10 @@ A aplicação front-end nessa sprint foi melhor trabalhada, recebendo uma ligaç
     ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Landsat.jpg)
 
 - [x] 014 - Banco de Dados
+    
+Elaboração de modelagem do Banco de Dados com as primeiras e principais tabelas desenvolvidas para estarem servindo como base para a crianção do Banco de Dados que estará  armazenando as informações e disponibilizando elas para o acesso pelo front-end. Estas primeiras tabelas criadas estão sendo hospedadas em nuvem através da plataforma Heroku.
    
-    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Modelagem-BancoDeDados.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Modelagem-BancoDeDados.png)
 
     
 
