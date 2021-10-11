@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS%20DA%20SPRINT-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS%20DA%20SPRINT-CONCLUIDA-green)](https://shields.io/)
 <br id="topo">
 <h1 align="center"> Sprint 2: 20/09/2021 a 10/10/2021 </h1>
 <p align="center"> 
@@ -110,11 +110,11 @@ A aplicação front-end nessa sprint foi melhor trabalhada, recebendo uma ligaç
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
     
-    ![](inserir imagens e/ou gifs)
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Buscando_imagem_Landsat.png)
     
 - [x] 002 - Obtenção de Imagem: Disponibilizar a imagem para o portal web
  
-    ![](inserir imagens e/ou gifs)
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Landsat.jpg)
 
 - [x] 014 - Banco de Dados
    
