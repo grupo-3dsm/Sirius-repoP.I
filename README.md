@@ -96,7 +96,15 @@ Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a 
 
 - [x] 013 - Interface Web: Desenvolvimento Pleno do Front-end
       
-  ![](inserir imagens e/ou gifs)
+  ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Menuextra.gif)
+
+    Menu extra com infos sobre o app (será finalizado nas próximas entregas
+    
+  ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-MenuTiles.gif)   
+    
+   Seleção das camadas das imagens de satélite 
+ 
+A aplicação front-end nessa sprint foi melhor trabalhada, recebendo uma ligação inicial com o backend e melhora visual.    
     
 ### Back-end
     
