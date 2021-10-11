@@ -75,9 +75,9 @@ tarefas que corresponde a requisitos do Backlog da Sprint e consequentemente ao 
 Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem das áreas desejadas, através de um Basemap (Leafleat) e back-end, 
 através da ferramenta Jupyter Notebook, que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
 
-![](inserir a imagem do burndown)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Burndown-A.png)
 
-![](inserir a imagem do burndown)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-2/Imagens/Sprint2-Burndown-B.png)
 
 <span id="repo">
 
