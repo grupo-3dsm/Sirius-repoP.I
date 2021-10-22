@@ -52,18 +52,18 @@ Informações informais sobre as funções do sistema
 **Aplicabilidade** |           **Quem**       |               **O que?**                                                        |    **Como?**                                 |
 :------------:     | :----------------------  | :---------------------------------------------------------------------------    | :----------------------------------          |
 | Obrigatório      | Como usuário quero       | Buscar por imagens de forma específica                                          | Com um filtro de pesquisa no portal web      |
-| Opicional        | Como usuário quero       | Realizar login na plaraforma                                                    | Através da autentificação via e-mail e senha |
-| Opicional        | Como usuário quero       | Poder ajusta o brilho, realce de contraste e transparência do mapa              | Com uma ferramenta de manipulação de imagem  |
-| Opicional        | Como usuário quero       | Conseguir comparar uma área em diferentes períodos                              | Utilizando uma ferramenta de linha de tempo  |
+| Opcional        | Como usuário quero       | Realizar login na plaraforma                                                    | Através da autentificação via e-mail e senha |
+| Opcional        | Como usuário quero       | Poder ajusta o brilho, realce de contraste e transparência do mapa              | Com uma ferramenta de manipulação de imagem  |
+| Opcional        | Como usuário quero       | Conseguir comparar uma área em diferentes períodos                              | Utilizando uma ferramenta de linha de tempo  |
 | Obrigatório      | Como usuário quero       | Poder salvar alguma imagem em meu computador                                    | Através de uma ferramenta de download        |
 | Obrigatório      | Como usuário quero       | Conseguir movimentar a imagem em todas as direções                              | Com uma ferramenta de movimentação pan       |
 | Obrigatório      | Como usuário quero       | Estar habilitado a aproximar e distanciar as imagens                            | Utilizando uma ferramente de zoom in e out   |
 | Obrigatório      | Como administrador quero | Disponibilizar as imagens de satélite e geoprocessamento numa interface de mapa | Através de basemaps para mapa e imagens de satélite |
 | Obrigatório      | Como administrador quero | Encontrar imagens a serem expostas no portal web                                | Consultando os repositórios públicos em nuvem dos satélites escolhidos |
-| Opicional        | Como administrador quero | Restringir a entrada na plataforma apenas para pessoas permitidas               | Com a autenticação de login através do e-mail e senha |
+| Opcional        | Como administrador quero | Restringir a entrada na plataforma apenas para pessoas permitidas               | Com a autenticação de login através do e-mail e senha |
 | Obrigatório      | Como administrador quero | Exibir imagens com boa qualidade e rapidez na renderização                      | Através da utilização de web tiles dinâmicos |
 | Obrigatório      | Como administrador quero | Exibir imagens com boa colocaração e definição                                  | Utilizando um tratamento de imagem com cores naturais e realçadas |
-| Opicional        | Como administrador quero | Permitir que os usuários possam ver as imagens além da forma padrão             | Oferecendo opções de visualização de imagem (colorida falsa-cor e NDVI) |
+| Opcional        | Como administrador quero | Permitir que os usuários possam ver as imagens além da forma padrão             | Oferecendo opções de visualização de imagem (colorida falsa-cor e NDVI) |
   
 → [Voltar ao topo](#topo)
   
