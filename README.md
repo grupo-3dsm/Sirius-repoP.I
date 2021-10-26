@@ -137,10 +137,8 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | :----------:  | :-----------------------    | :----------------------------------------------------:                 | :------------------------------------------: |
 | Scrum Master  | Vinicius Buarque de Gusmão Catonho | [LinkedIn](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) | [GitHub](https://github.com/vbuarque) |
 | Product Owner | Isabelle Dias Ribeiro Silva | [LinkedIn](https://www.linkedin.com/in/drisabelles)                    | [GitHub](https://github.com/drisabelles)     |
-|   Dev Team    | Adriano Andrade Almeida     | [LinkedIn](https://www.linkedin.com/in/aeroadriano/)                   | [GitHub](https://github.com/aeroadriano)     |
 |   Dev Team    | Ana Carolina dos Santos     | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/)          | [GitHub](https://github.com/annakks)         |
 |   Dev Team    | Gabriele Gonçalves Vieira   | [LinkedIn](https://www.linkedin.com/mwlite/in/gabrielevieira)          | [GitHub](https://github.com/GabrieleGVieira) |
 |   Dev Team    | Nathan da Motta Truyts      | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/)       | [GitHub](https://github.com/Nathtruyts)      |
-|   Dev Team    | Gustavo Borges Lima         | [LinkedIn](https://www.linkedin.com/in/gustavo-borges-lima-9a4720210/) | [GitHub](https://github.com.Miojoguu)        |
 
 → [Voltar ao topo](#topo)
