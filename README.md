@@ -97,7 +97,7 @@ Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, 
     
 ## 📅 Cronograma de Entregas
 
-<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Cronograma-Entregas.png">
+<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-CronogramaDeEntregas.png">
   
 → [Voltar ao topo](#topo)
   
