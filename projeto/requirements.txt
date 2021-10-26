@@ -1,5 +1,0 @@
-requests
-shapely
-leafmap
-ipyleaflet
-opencv-python==3.4.8.29
