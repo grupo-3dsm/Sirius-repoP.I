@@ -11,6 +11,7 @@
     <a href="#user-stories"> User Stories </a> | 
     <a href="#prototipo"> Protótipo </a> | 
     <a href="#cronograma"> Cronograma de Entregas </a> |
+    <a href="#repo"> Organização do Repositório </a> |
     <a href="#tecnologias"> Tecnologias </a> |
     <a href="#equipe"> Equipe </a> 
 </p>
@@ -100,7 +101,19 @@ Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, 
 <img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-CronogramaDeEntregas.png">
   
 → [Voltar ao topo](#topo)
+    
+<span id="repo">
+
+## :file_folder: Organização do Repositórios 
+
+Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
+#### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/Imagens">/Imagens</a>: Contém as imagens utilizadas para a ilustração dos READMEs das branches.
+#### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/backend">/backend</a>: Contém os arquivos desenvolvidos para o backend da aplicação, sendo eles correspondentes ao acesso aos satélites e obtenção das imagens.
+#### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/databases">/databases</a>: Contém os arquivos correspondentes ao banco de dados do projeto.
+#### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/frontend">/frontend</a>: Contém os arquivos relacionados a estrutura e aparência do página desenvolvida.
   
+→ [Voltar ao topo](#topo)
+    
 <span id = "tecnologias">
  
 ##  🛠️ Tecnologias
