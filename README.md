@@ -106,7 +106,7 @@ Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, 
 
 ## :file_folder: Organização do Repositórios 
 
-Os arquivos desta Sprint estão alocados em um único arquivo, contendo tanto a Interface e os códigos no Jupyter Notebook.
+Os arquivos desta Sprint estão alocados nas seguintes pastas:
 #### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/Imagens">/Imagens</a>: Contém as imagens utilizadas para a ilustração dos READMEs das branches.
 #### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/backend">/backend</a>: Contém os arquivos desenvolvidos para o backend da aplicação, sendo eles correspondentes ao acesso aos satélites e obtenção das imagens.
 #### 📁 <a href="https://github.com/grupo-3dsm/Sirius-repoP.I/tree/main/databases">/databases</a>: Contém os arquivos correspondentes ao banco de dados do projeto.
