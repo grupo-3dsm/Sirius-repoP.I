@@ -1,0 +1,26 @@
+create table USUARIO(
+USUA_ID SERIAL primary key,
+USUA_NOME text not null,
+USUA_EMAIL text not null,
+USUA_SENHA text not null);
+
+create table HISTORICO(
+LOG_ID SERIAL primary key,
+LOG_USUA_ID INTEGER not NULL,
+LOG_EMAIL text not null,
+LOG_SENHA text not NULL,
+LOG_DATA DATE, 
+FOREIGN KEY (LOG_USUA_ID) REFERENCES USUARIO(USUA_ID));
+
+create trigger HISTORICO_LOGIN
+after insert or update on USUARIO
+for each row 
+EXECUTE PROCEDURE LOGIN_FUNC();
+
+CREATE OR REPLACE FUNCTION LOGIN_FUNC()
+RETURNS TRIGGER AS
+$BODY$ BEGIN
+insert into historico (LOG_USUA_ID, LOG_EMAIL, LOG_SENHA, LOG_DATA) values (new.USUA_ID, new.USUA_EMAIL, new.USUA_SENHA, CURRENT_DATE);
+RETURN NULL;
+end; $BODY$
+LANGUAGE 'plpgsql'
