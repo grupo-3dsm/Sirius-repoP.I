@@ -19,11 +19,10 @@
 2. Organização da equipe e planejamento de processos;
 
 - [x] Resolver os inpedimentos indentificados no desenvolvimento da interface;
-- [x] Continuar o desenvolvimento e a aplicação da conexão das partes (front e backend);
+- [x] Continuar o desenvolvimento das melhorias do frontend;
 - [x] Trabalhar o banco de dados para o CRUD dos usuários;
-- [x] Estudo e implementação inicial dos web tiles dinâmicos;
-- [x] Continuidade na utilização de imagens de 2 satélites: CBERS-4 e Landsat 8;
-- [x] Desenvolvimento da tela de cadastro e login de usuário
+- [x] Desenvolvimento das páginas de lgin e cadastro dos usuários;
+- [x] Definição de apenas um satélite para ser trabalhado até o final do projeto: CBERS4.
 
 3. Confecção do wireframe e do protótipo.
 
@@ -39,7 +38,7 @@
 
 <p>O que vamos entregar?</p>
 
- Interface estruturada e estilizada, onde a partir dela será realizada login de usuário, busca de uma imagem de determinado satélite, polígono para busca; sendo inicialmente desenvolvida a pré-visualização da imagem com web tiles dinâmicos, contendo um banco de dados conectado com um CRUD.
+ Interface com a estrutura e estilização melhoradas, contando com as telas de login e cadastro, também com novo banco e modelagem de dados para que seja possível a conexão através do CRUD sobre a autenticação de usuários.
     
 <span id="backlog">
 
@@ -51,20 +50,11 @@
 
 ## 🖊️ Wireframe
 
-Página Inicial:  
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-PagInicial.png)
-    
-Aba de filtros de busca:   
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-FiltragemBusca.png)
-
-Aba de filtros de imagem:
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-FiltrosImagem.png)
 
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Prototipo.gif)
 
 <span id="org">
 
@@ -97,18 +87,19 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
     
 ### Front-end
 
-- [x] 013 - Interface Web: Desenvolvimento pleno do front-end
+- [x] 005 - Estrutura Web: (OPCIONAL) Autenticar usuários no acesso ao portal
+
+    
+    
+- [x] 007 - Interface Web: Desenvolvimento pleno do front-end
           
     
 ### Back-end
     
-- [x] 002 - Obtenção de Imagem: Disponibilizar imagens para o portal web
-    
-    
-- [x] 003 - Estrutura Web: Gerar serviços de web tiles dinâmicos
+- [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
 
 
-- [x] 014 - Banco de Dados
+- [x] 008 - Banco de Dados
 
 
     
