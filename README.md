@@ -85,7 +85,7 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 
 ## :white_check_mark: Entregas
     
-### Front-end
+### Frontend
 
 - [x] 005 - Estrutura Web: (OPCIONAL) Autenticar usuários no acesso ao portal
 
@@ -94,9 +94,11 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 - [x] 007 - Interface Web: Desenvolvimento pleno do front-end
           
     
-### Back-end
+### Backend
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
+    
+    Diante da alteração de requisitos a serem entregues neste API, foi decidido estar utilizando e consultando apenas um satélite dos que foram propostos, tendo o CBERS4 sido o escolhido para ser usado para as consultas e obtenções de imagens, uma vez que ele já estava sendo utilizado desde a primeira sprint, implicando maior familiariadade com seus acessos, mesmo havendo algumas dificuldades em alguns momentos.
 
 
 - [x] 008 - Banco de Dados
