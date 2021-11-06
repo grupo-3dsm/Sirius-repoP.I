@@ -32,7 +32,7 @@ Entregas serão realizadas nas datas:
 :---------: | :------:    | :-------:          | :-------:
 01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/) | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1) |
 02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2)
-03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)  | Acessar
+03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2)
 04          | 05/12/2021  | [![Generic badge](https://img.shields.io/badge/PENDENTE-red)](https://shields.io/)  | Acessar
   
   
@@ -66,15 +66,15 @@ Informações informais sobre as funções do sistema
 
 ## 🖊️ Wireframe
 
-Tela de Login:
+Tela de login:
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-TelaDeLogin.png)
     
-Tela de Cadastro:
+Tela de cadastro:
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-TelaDeCadastro.png)
     
-Tela Do Mapa:
+Tela do mapa:
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-TelaDoMapa.png)
 
