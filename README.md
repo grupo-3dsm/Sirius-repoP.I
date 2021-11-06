@@ -109,7 +109,7 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
     
-    Diante da alteração de requisitos a serem entregues neste API, foi decidido estar utilizando e consultando apenas um satélite dos que foram propostos, tendo o CBERS4 sido o escolhido para ser usado para as consultas e obtenções de imagens, uma vez que ele já estava sendo utilizado desde a primeira sprint, implicando maior familiariadade com seus acessos, mesmo havendo algumas dificuldades em alguns momentos.
+    Diante da alteração de requisitos a serem entregues neste API, foi decidido estar utilizando e consultando apenas um satélite dos que foram propostos, tendo o CBERS4 sido o escolhido para ser usado para as consultas e obtenções de imagens, uma vez que ele já estava sendo utilizado desde a primeira sprint, implicando maior familiariadade com seus acessos.
 
 
 - [x] 008 - Banco de Dados
