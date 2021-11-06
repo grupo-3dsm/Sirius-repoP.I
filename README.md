@@ -66,17 +66,25 @@ Informações informais sobre as funções do sistema
 
 ## 🖊️ Wireframe
 
-Página Inicial:
+Tela de Login:
     
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-PagInicial.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-TelaDeLogin.png)
     
-Aba de filtros para busca:
+Tela de Cadastro:
     
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FiltragemBusca.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-TelaDeCadastro.png)
     
-Aba de filtros para imagens:
+Tela Do Mapa:
     
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FiltrosImagem.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-TelaDoMapa.png)
+
+Ferramentas para busca das imagens:
+    
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FerramentasBusca.png)
+    
+Ferramenta do usuário:
+    
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FerramentaUser.png)
     
 <span id = "prototipo">
   
