@@ -84,7 +84,7 @@ Aba de filtros para imagens:
 
 Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, validado com o cliente:
 
-<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Prototipo.gif">
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Prototipo.gif)
   
 → [Voltar ao topo](#topo)
   
