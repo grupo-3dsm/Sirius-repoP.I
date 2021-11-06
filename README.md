@@ -66,6 +66,7 @@ Tela com os filtros para busca:
 
 ## :desktop_computer: Protótipo
 
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Prototipo.gif)    
 
 <span id="org">
 
