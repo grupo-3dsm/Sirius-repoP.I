@@ -50,7 +50,18 @@
 
 ## 🖊️ Wireframe
 
+Tela de Login:   
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-TelaDeLogin.png)
 
+Tela de Cadastro:   
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-TelaDeCadastro.png)
+
+Tela do Mapa:   
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-TelaDoMapa.png)
+
+Tela com os filtros para busca:   
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Wireframe-FerramentasBusca.png)
+    
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo
