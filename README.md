@@ -103,12 +103,15 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 - [x] 007 - Interface Web: Desenvolvimento pleno do front-end
     
     Telas de Login e Cadastro desenvolvidas utilizando ReactJS e Typescript.
-    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-EstruturaWeb.gif)
     
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-EstruturaWeb.gif)
+        
     Tela de mapa desenvolvido utilizando ReactJS, Typescript e para plotar o mapa com um Basemap de Tiles Estaticos utilizamos Leaflet e MapBox API.
+    
     ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-InterfaceWeb.gif)
     
     Diante da alteração dos requisitos a serem entregues neste API, foi reformulado e aperfeiçoado o Front-End do projeto deixando assim já pronto para a integração do Back-End e Banco de dados.
+    
 ### Backend
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
