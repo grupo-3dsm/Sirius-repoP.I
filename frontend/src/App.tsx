@@ -1,26 +1,13 @@
-import React from 'react';
-import { DropdownProvider } from './hooks/dropdown';
+import Routes from "./components/routes/routes";
+import { Theme, GlobalStyles } from './theme';
 
-import GlobalStyles from './styles/global';
+export const App = () => {
+  return (
+    <Theme>
+      <GlobalStyles />
+      <Routes />
+    </Theme>
+  );
+}
 
-import Layout from './Components/Layout';
-import NavBar from './Components/Navbar';
-import DropdownRoot from './Components/Dropdown';
-
-
-const App: React.FC = () => {
-    return (
-      <>
-        <Layout>
-          <DropdownProvider>
-            <NavBar />
-            <DropdownRoot />
-          </DropdownProvider>
-        </Layout>
-  
-        <GlobalStyles />
-      </>
-    );
-};
-
-  export default App;
+export default App;
