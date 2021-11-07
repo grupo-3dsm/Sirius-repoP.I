@@ -74,9 +74,9 @@ tarefas que corresponde a requisitos do Backlog da Sprint e consequentemente ao 
 Deste modo a equipe se organizou para entrega de uma Interface com busca de uma imagem das áreas desejadas, através de um Basemap (Leafleat) e back-end, 
 através da ferramenta Jupyter Notebook, que contém um código no qual mostra a possibilidade de consultar e buscar imagens existentes e realizar download simples.
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Burndown-A.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Burndown.png)
 
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Burndown-B.png)
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Burndown2.png)
 
 <span id="repo">
 
@@ -97,12 +97,18 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 ### Frontend
 
 - [x] 005 - Estrutura Web: (OPCIONAL) Autenticar usuários no acesso ao portal
-
     
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-EstruturaWeb.png)
     
 - [x] 007 - Interface Web: Desenvolvimento pleno do front-end
-          
     
+    Telas de Login e Cadastro desenvolvidas utilizando ReactJS e Typescript.
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-EstruturaWeb.png)
+    
+    Tela de mapa desenvolvido utilizando ReactJS, Typescript e para plotar o mapa com um Basemap de Tiles Estaticos utilizamos Leaflet e MapBox API.
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-InterfaceWeb.png)
+    
+    Diante da alteração dos requisitos a serem entregues neste API, foi reformulado e aperfeiçoado o Front-End do projeto deixando assim já pronto para a integração do Back-End e Banco de dados.
 ### Backend
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
@@ -114,7 +120,7 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 
 
     
-
+![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Modelagem-BancoDeDados.png)
 
 
     
