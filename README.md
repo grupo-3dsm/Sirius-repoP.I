@@ -116,16 +116,25 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
     
 - [x] 001 - Obtenção de Imagem: Consultar as imagens dos satélites
     
-    Diante da alteração de requisitos a serem entregues neste API, foi decidido estar utilizando e consultando apenas um satélite dos que foram propostos, tendo o CBERS4 sido o escolhido para ser usado para as consultas e obtenções de imagens, uma vez que ele já estava sendo utilizado desde a primeira sprint, implicando maior familiariadade com seus acessos.
+    Em razão da alteração de requisitos a serem entregues neste API, foi decidido estar utilizando e consultando apenas um satélite dos que foram propostos, tendo o CBERS4 sido o escolhido para ser usado para as consultas e obtenções de imagens, uma vez que ele já estava sendo utilizado desde a primeira sprint, implicando maior familiariadade com seus acessos. Dessa forma, o único trabalho realizado no satélite foi executado na questão de download das bandas das imagens, corrigindo para que todas pudessem ser obtidas no ato do download; essa questão continua disponível apenas no backend, uma vez que ainda não há a conexão com o fronted (disponibilização na interface web).
 
 
 - [x] 008 - Banco de Dados
     
-Elaboração de banco de dados para armazenar informações dos usuários (nome, e-mail e senha) assim como dados de acesso dos usuários.
-Uso de linguagem Plsql e função Trigger.
-Desenhado uma modelagem do BD para auxilar na construção do Banco.
+    Foi elaborada uma modelagem de banco de dados nova, correspondente às telas de login e cadastro de usuários. 
     
-![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Modelagem-BancoDeDados.png)
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Modelagem-BancoDeDados.png)
+    
+    A partir disso foi desenvolvido um banco de dados para armazenar as informações dos usuários cadastrados (nome, e-mail e senha), assim como os dados de acesso dos usuários. Para esse desenvolvimento foi utilizada a linguagem PLSQL e também foi trabalhada a função Trigger, tais códigos serão exibidos abaixo.
+    
+    #### Tabelas:
+    
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-DataBase-Table.png)
+    
+    #### Trigger:
+    
+    ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-DataBase-Trigger.png)
+
 
 
     
