@@ -6,6 +6,7 @@ from io import StringIO
 from urllib.request import urlopen
 import requests
 import leafmap
+import os 
 from ipyleaflet import Map, GeoJSON
 from PIL import Image
 import cv2
@@ -277,8 +278,44 @@ def imagem():
                             break
 
                         imagem.write(dado)
-                            
 
+
+        def bandas_landsat(self, url, endereco):    # requisição do servidor
+            resposta = requests.get(url)
+            if resposta.status_code == requests.codes.OK:  # verifica se esta ok para acessar 
+                with open(endereco, 'wb') as novo_arquivo:
+                    novo_arquivo.write(resposta.content)
+                print("Download finalizado. Salvo em: {}".format(endereco))
+            else:
+                resposta.raise_for_status()   
+
+
+
+        def bandas_cbers(self):
+            # Separando a imagem em 3 bandas e salvando
+            img = cv2.imread("imagem-satelite.tiff")
+            (canalAzul, canalVerde, canalVermelho) = cv2.split(img)
+            zeros = np.zeros(img.shape[:2], dtype = "uint8")
+
+
+
+            #Salvando imagems fragmentadas em bandas RGB
+            cv2.imwrite("Banda_4_vermelho.tiff", cv2.merge([zeros, zeros, canalVermelho]))
+            cv2.imwrite("Banda_3_verde.tiff", cv2.merge([zeros, canalVerde, zeros]))
+            cv2.imwrite("Banda_2_azul.tiff", cv2.merge([canalAzul, zeros, zeros]))
+
+            
+            # Abrindo uma pasta .zip, armazenando e fechando
+            z = zipfile.ZipFile('satelite.zip', 'w', zipfile.ZIP_DEFLATED)
+            z.write("Banda_4_vermelho.tiff")
+            z.write("Banda_3_verde.tiff")
+            z.write("Banda_2_azul.tiff")
+            z.close()
+                          
+
+            
+            
+            
             return 
     
     reqts = request.args.get('acao')
@@ -307,6 +344,18 @@ def imagem():
         retorna = "Download Completo!"
     if reqts == 'Mapa':
         retorna = stac.json()
+    if reqts == 'Bandas' and satelite == 'Landsat':
+        arquivo_json = stac.json()
+        i = 1
+        while i <= 11:
+            banda = 'B' + str(i)
+            link = arquivo_json['assets'][banda]['href']
+            nome = 'Landasat' + banda + '.tif'
+            acoes.bandas_landsat(link, nome)
+            i = i + 1
+        retorna = "Download Completo!"
+    if reqts == 'Bandas' and satelite == 'CBERS':
+        acoes.bandas_cbers()
     
 
     return retorna
