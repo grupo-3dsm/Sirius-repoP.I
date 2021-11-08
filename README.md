@@ -120,8 +120,10 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 
 
 - [x] 008 - Banco de Dados
-
-
+    
+Elaboração de banco de dados para armazenar informações dos usuários (nome, e-mail e senha) assim como dados de acesso dos usuários.
+Uso de linguagem Plsql e função Trigger.
+Desenhado uma modelagem do BD para auxilar na construção do Banco.
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-3/Imagens/Sprint3-Modelagem-BancoDeDados.png)
 
