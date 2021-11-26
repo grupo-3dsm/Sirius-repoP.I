@@ -57,7 +57,7 @@ O prazo foi estipulado pela FATEC em 4 sprints (vulgo fases), as quais cada uma 
     
  <span id="vpc">
   
-## 📌 VPC
+## 📌 VPC - Value Proposition Canvas
   
      
      
@@ -65,7 +65,7 @@ O prazo foi estipulado pela FATEC em 4 sprints (vulgo fases), as quais cada uma 
      
 <span id="bpmn">
   
-## 📎 BPMN
+## 📎 BPMN - Business Process Model and Notation
   
     
 
