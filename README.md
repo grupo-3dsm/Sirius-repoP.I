@@ -6,11 +6,14 @@
 <img src = "https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/fatec-logo.png" width = "140px" height = "70px">
 <h1 text align="center">Sirius </h1>
 <p align = "center">
-    <a href="#sobre"> Sobre </a> | 
+    <a href="#sobre"> Sobre </a> |
+    <a href="#entregas"> Entregas </a> |
+    <a href="#briefing"> Briefing </a> |
+    <a href="#vpc"> VPC </a> |
+    <a href="#bpmn"> BPMN </a> |
     <a href="#backlog"> Backlog </a> | 
     <a href="#user-stories"> User Stories </a> | 
     <a href="#prototipo"> Protótipo </a> | 
-    <a href="#cronograma"> Cronograma de Entregas </a> |
     <a href="#repo"> Organização do Repositório </a> |
     <a href="#tecnologias"> Tecnologias </a> |
     <a href="#equipe"> Equipe </a> 
@@ -24,9 +27,10 @@
 Desenvolvimento de um portal web com interface de mapa, baseado em serviços de computação em nuvem utilizando tiles, que acessa imagens públicas de satélites e permita consultar, manipular e proporcionar download de imagens para seu usuário, entregando de maneira incremental valor ao cliente durante 4 sprints.
 Projeto tem por base a metodologia ágil SCRUM, em que desenvolve Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos.
   
-  
-### 🛰️ Entregas de Sprints
-Entregas serão realizadas nas datas:
+<span id = "entregas">
+
+## 📅 Entregas
+Entregas serão realizadas nas seguintes datas:
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
@@ -34,19 +38,50 @@ Entregas serão realizadas nas datas:
 02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2)
 03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-3)
 04          | 28/11/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)  | Acessar
-  
-  
+    
+Seguindo conforme este cronograma estipulado para cada sprint:
+
+<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-CronogramaDeEntregas.png">
+    
 → [Voltar ao topo](#topo)
+
+<span id="briefing">
   
+## 🗒️ Briefing
+  
+Durante o kick-off do projeto foi informado pela equipe da Visiona a procura por um site que pudesse exibir as imagens de satélites de forma leve de fácil manuseio e bem articulada, cooperando nas atividades desenvolvidas em seu núcleo. Sendo assim foi pensado em desenvolver uma interface o mais minimalista, intuitiva e funcional possível, mantendo todas as ferramentas necessárias. 
+O público alvo se trata de funcionários já participantes e conhecedores da área de sensoriamento remoto, porém não de linguagem de programação, que estariam utilizando da plataforma para visualizar as fotos sendo tiradas por determinada câmera de determinados satélites, as quais seria desejável realizar um download no qual todas as bandas existentes na câmera selecionado seriam baixadas juntas.
+O prazo foi estipulado pela FATEC em 4 sprints (vulgo fases), as quais cada uma continha 21 um dias, totalizando 84 dias. No conectando a pauta do tempo com a das objeções, mediante a diversos fatores nem todos os pedidos da empresa puderam ser atendidos, como a quantidade desejada de satélites e alguns itens opcionais, contudo tais aspectos foram conversados e reorganizados com a instituição de ensino e a empresa parceira.
+    
+→ [Voltar ao topo](#topo)
+    
+ <span id="vpc">
+  
+## 📌 VPC
+  
+     
+     
+→ [Voltar ao topo](#topo)
+     
+<span id="bpmn">
+  
+## 📎 BPMN
+  
+    
+
+→ [Voltar ao topo](#topo)  
+    
 <span id="backlog">
   
 ## 🌎 Backlog do Produto
   
 <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Backlog.png">
+    
+→ [Voltar ao topo](#topo)
   
 <span id = "user-stories">
 
-## User Stories
+## 🧍 User Stories
 
 Informações informais sobre as funções do sistema 
       
@@ -86,6 +121,8 @@ Ferramenta do usuário:
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FerramentaUser.png)
     
+→ [Voltar ao topo](#topo)
+    
 <span id = "prototipo">
   
 ## :desktop_computer: Protótipo
@@ -93,14 +130,6 @@ Ferramenta do usuário:
 Para o Projeto foi desenvolvido um Protótipo, através de um Wireframe/Mockup, validado com o cliente:
 
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Prototipo.gif)
-  
-→ [Voltar ao topo](#topo)
-  
-<span id = "cronograma">
-    
-## 📅 Cronograma de Entregas
-
-<img src="https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-CronogramaDeEntregas.png">
   
 → [Voltar ao topo](#topo)
     
