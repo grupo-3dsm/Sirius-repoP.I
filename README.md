@@ -59,7 +59,7 @@ O prazo foi estipulado pela FATEC em 4 sprints (vulgo fases), as quais cada uma 
   
 ## 📌 VPC - Value Proposition Canvas
   
-     
+<img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-VPC.png">     
      
 → [Voltar ao topo](#topo)
      
