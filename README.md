@@ -105,7 +105,9 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
     
 ### Frontend
 
-- [x] 002 - Obtenção de Imagem: 
+- [x] 002 - Obtenção de Imagem: (MODIFICADO) Disponibilizar imagens para o portal web
+    
+    Mediante alguns percalços durante o desenvolvimento e melhoria da interface web para que pudesse ser utilizada sem maiores problemas, o prazo acabou ficando muito apertado para que todos os testes necessários fossem feitos e a entrega fosse realizada totalmente testada e comprovada sua funcionalidade plena, sendo assim foi preferido pela equipe optar por mostrar a interface web e as funcionalidades do backend de forma separada.
     
 
     
