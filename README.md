@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-CONCLUÍDO-green)](https://shields.io/)
 
 <br id="topo">
 <h1 align = "center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre DSM </h1>
@@ -34,10 +34,10 @@ Entregas serão realizadas nas seguintes datas:
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/) | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1) |
-02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2)
-03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDO-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-3)
-04          | 28/11/2021  | [![Generic badge](https://img.shields.io/badge/EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)  | Acessar
+01          | 19/09/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDA-green)](https://shields.io/) | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-1) |
+02          | 10/10/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDA-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-2)
+03          | 07/11/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDA-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-3)
+04          | 28/11/2021  | [![Generic badge](https://img.shields.io/badge/CONCLUÍDA-green)](https://shields.io/)  | [Acessar](https://github.com/grupo-3dsm/Sirius-repoP.I/tree/sprint-4)
     
 Seguindo conforme este cronograma estipulado para cada sprint:
 
