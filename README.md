@@ -117,7 +117,7 @@ Ferramentas para busca das imagens:
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FerramentasBusca.png)
     
-Ferramenta do usuário:
+Ferramenta de logout:
     
 ![](https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Produto-Wireframe-FerramentaUser.png)
     
