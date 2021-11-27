@@ -3,6 +3,8 @@
 <h1 align="center"> Sprint 4: 08/10/2021 a 28/11/2021 </h1>
 <p align="center"> 
     <a href="#objetivos">Objetivos da Sprint</a> |
+    <a href="#mvp">MVP</a> |
+    <a href="#backlog">Backlog</a> |
     <a href="#wireframe">Wireframe</a> | 
     <a href="#prototipo">Protótipo</a> | 
     <a href="#org">Organização da Equipe</a> | 
