@@ -111,7 +111,9 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
     
     Mediante alguns percalços durante o desenvolvimento e melhoria da interface web para que pudesse ser utilizada sem maiores problemas, o prazo acabou ficando muito apertado para que todos os testes necessários fossem feitos e a entrega fosse realizada totalmente testada e comprovada sua funcionalidade plena, sendo assim foi preferido pela equipe optar por mostrar a interface web e as funcionalidades do backend de forma separada.
     
-
+- [x] 006 - Interface Web: Filtrar e buscar imagens no portal web
+ 
+    
     
 - [x] 007 - Interface Web: Desenvolvimento pleno do front-end
 
@@ -127,5 +129,4 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
 
 
 
-- [x] 006 - Interface Web: Filtrar e buscar imagens no portal web
 
