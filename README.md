@@ -20,11 +20,11 @@
 
 2. Organização da equipe e planejamento de processos;
 
-- [x] Disponibilizar as imagens do satélite na interface web;
-- [x] Realizar a conexão entre o frontend, backend e banco de dados;
-- [x] Viabilizar o uso das ferramentas disponíveis na interface;
+- [x] Exibir qualitariamente o frontend e o backend separados;
+- [x] Realizar a conexão do banco de dados com o CRUD;
+- [x] Viabilizar o uso das ferramentas;
 - [x] Trabalhar nas possíveis melhorias do portal;
-- [x] Continuar o trabalho com as imagens do satélite escolhido.
+- [x] Continuar o trabalho com as imagens do satélite escolhido e do satélite bônus (CBERS4 e Landsat 8, respectivamente).
 
 3. Confecção do wireframe e do protótipo.
 
