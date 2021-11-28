@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.closeIcon {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    color: #DC851F !important;
+}
+
+.closeIcon:hover {
+    color: #000000;
+    cursor: pointer;
+    transition-duration: 225ms;
+}
+
+a:-webkit-any-link {
+    color: #DC851F !important;
+}

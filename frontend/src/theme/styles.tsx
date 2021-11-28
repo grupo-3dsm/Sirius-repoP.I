@@ -12,6 +12,6 @@ export const GlobalStyles = createGlobalStyle<{ theme: ThemeType }>`
   }
   body {
     background-color: ${({ theme }) => theme.colors.secondary} ;
-    overflow: hidden;
+
   }
 `
