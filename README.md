@@ -127,7 +127,33 @@ O front-end foi melhorado a partir das mudanças planejads no início do trabalh
 
 - [x] 005 - Estrtura Web: (OPCIONAL) Autenticar usuários no acesso ao portal  
     
-    Foi desenvolvido um sistema de autentificação no portal web, que permite que o usuário crie uma conta em nosso portal, assim permitindo o seu acesso a nossa plataforma de busca.
+    Como mostrado na sprint anterior foi desenvolvido um banco de dados que busca proporcionar uma conexão de usuários no portal, ao qual estará recebendo email, senha e nome. Conforme será exibido a seguir, temos as tabelas do banco de dados e a formação dos triggers (gatilhos) que trabalham na tabela de login e de cadastro.
+    
+    #### Tabelas
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint3-DataBase-Table.png">
+                
+    #### Triggers
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint3-DataBase-Trigger.png">
+    
+    Nessa sprint foi desenvolvido o CRUD que estará comunicando-se com o banco de dados e com as respectivas ações de cadastrar, listar, atualizar e deletar os usuários que têm um cadastro existentes. Abaixo estão disponíveis alguns prints demonstrando os códigos responsáveis por estas comunicações.
+    
+    #### Create
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint4-CRUD-Create.png">
+                
+    #### Read
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint4-CRUD-Read.png">
+    
+    #### Update
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint4-CRUD-Update.png">
+                
+    #### Delete
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/main/Imagens/Sprint4-CRUD-Delete.png">
     
     
 
