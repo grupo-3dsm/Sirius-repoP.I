@@ -107,23 +107,28 @@ Os arquivos desta Sprint estão alocados nas seguintes pastas:
     
 ### Frontend
     
+- [x] 004 - Estrutura Web: Permitir download de imagens
 - [x] 006 - Interface Web: Filtrar e buscar imagens no portal web
-
-    Adicionado a capacidade de buscar determinadas imagens presentes no catálogo, através do menu disponibilizado no portal web, filtrando por data de aquisição, latitude e longitude e porcentual de cobertura de nuvens, a partir do menu disponibilizado no portal web.  
- 
 - [x] 007 - Interface Web: Desenvolvimento pleno do front-end
     
-O front-end foi melhorado a partir das mudanças planejads no início do trabalho, com todas as suas funções planejadas disponivéis, o seu design foi finalizado, seguindo o que foi combinado com o cliente.
+    O frontend foi melhorado a partir de algumas necessidades que foram observadas ao longo da sprint, sendo assim foi adicionada uma página a parte para a busca das ferramentas, diferindo da ideia anterior que era uma barra lateral com elas. Também foi adicionada mais uma página para proporcionar que o usuário visualize as diversas imagens tiradas por diferentes câmeras dos satélites que correspondem aos filtros colocados por ele anteriormente, podendo selecionar as quais deseja realizar o download, que viria acompanhado da imagem e todas as suas bandas de acordo com a singularidade de equipamentos. A seguir estão dispostas algumas imagens que mostarm as páginas adicionadas ao portal para a melhor usabilidade das ferramentas. 
+    
+    #### Filtros
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-4/Imagens/Sprint4-Wireframe-Filtros.png">
+    
+    #### Resultados
+    
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-4/Imagens/Sprint4-Wireframe-Resultados.png">
     
 ### Backend
 
 - [x] 002 - Obtenção de Imagem: (MODIFICADO) Disponibilizar imagens para o portal web
     
-    Mediante alguns percalços durante o desenvolvimento e melhoria da interface web para que pudesse ser utilizada sem maiores problemas, o prazo acabou ficando muito apertado para que todos os testes necessários fossem feitos e a entrega fosse realizada totalmente testada e comprovada sua funcionalidade plena, sendo assim foi preferido pela equipe optar por mostrar a interface web e as funcionalidades do backend de forma separada.       
+    Mediante alguns percalços durante o desenvolvimento e melhoria da interface web para que pudesse ser utilizada sem maiores problemas, o prazo acabou ficando muito apertado para que todos os testes necessários fossem feitos e a entrega fosse realizada totalmente testada e comprovada sua funcionalidade plena, sendo assim foi preferido pela equipe optar por mostrar a interface web e as funcionalidades do backend de forma separada.
+    Desta forma, a visualização das imagens a partir das ferramentas de filtragem por data, coordenada geográfica e cobertura de nuvem continua sendo feita através da linha de comando, enquanto o portal tem sua imagem estruturada inicialmente de maneira adaptada para estar recebendo tais comandos também. É mostrado a seguir a forma com a qual a visualização ocorre no backend.
     
-- [x] 004 - Estrutura Web: Permitir download de imagens
-    
-    Funcionalidade que permite que o usuário faça o download das imagens escolhidas presentes no nosso catálogo. Todas as imagens podem ser visualizadas, para que o usuário possa decidir qual imagem corresponde ao seu desejo.
+    <img src = "https://github.com/grupo-3dsm/Sirius-repoP.I/blob/sprint-1/Imagens/Sprint1-ferramenta-busca.gif">
 
 - [x] 005 - Estrtura Web: (OPCIONAL) Autenticar usuários no acesso ao portal  
     
